@@ -10,12 +10,12 @@ Pamac;
 
 1. Faça o download do script de instalação de dependencias [install-dependencies.sh](install-dependencies.sh).
 1. Abra o terminal na pasta onde o script foi baixado.
-1. Execute o script `./install-dependencies.sh` (Este script vai baixar e instalar pelo pacman: wine-staging, winetricks, lutris, e dependencias extras. Adicionalmente, o script vai baixar instalar pelo AUR: gamemode e dxvk através do pamac build.)
+1. Execute o script `./install-dependencies.sh` (Este script vai baixar e instalar pelo pacman: wine-staging, winetricks, lutris, e dependencias extras. Adicionalmente, o script vai baixar instalar pelo AUR: gamemode e dxvk através do pamac build.). **Não** execute o script como super usuário (sudo).
 
-Recomendações:
-Na opção `Proceed with installation? [Y/n]` escolha y.
-Na opção `Edit build files: [y/N]` escolha n.
-Na opção `Apply transaction: [y/N]` escolha y.
+Recomendações:  
+Na opção `Proceed with installation? [Y/n]` escolha y.  
+Na opção `Edit build files: [y/N]` escolha n.  
+Na opção `Apply transaction: [y/N]` escolha y.  
 
 ### Download do jogo
 
