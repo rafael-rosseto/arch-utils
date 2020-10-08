@@ -1,10 +1,10 @@
 # Among Us no Linux
 
-### Requerimentos:
+### Requerimentos:  
 
-Arch Linux, Manjaro ou derivados;
-Acesso ao repositório multilib;
-Pamac;
+Arch Linux, Manjaro ou derivados;  
+Acesso ao repositório multilib;  
+Pamac;  
 
 ### Instalação das dependencias:
 
