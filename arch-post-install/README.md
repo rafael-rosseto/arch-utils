@@ -5,3 +5,9 @@ essentials.sh:<br>
 `curl -s -L https://raw.githubusercontent.com/rafael-rosseto/arch-utils/master/arch-post-install/essentials.sh | bash`<br>
 extra.sh:<br>
 `curl -s -L https://raw.githubusercontent.com/rafael-rosseto/arch-utils/master/arch-post-install/extra.sh | bash`<br>
+aur.sh:<br>
+`curl -s -L https://raw.githubusercontent.com/rafael-rosseto/arch-utils/master/arch-post-install/aur.sh | bash`<br>
+resize-tmp.sh<br>
+`curl -s -L https://raw.githubusercontent.com/rafael-rosseto/arch-utils/master/arch-post-install/resize-tmp.sh | bash`<br>
+make-swapfile.sh<br>
+`curl -s -L https://raw.githubusercontent.com/rafael-rosseto/arch-utils/master/arch-post-install/make-swapfile.sh | bash`<br>
