@@ -1,5 +1,14 @@
 #!/bin/bash
 
+# spotify
+echo Use gpg to get a key if needed:
+echo gpg --keyserver pool.sks-keyservers.net --recv-keys INSERT-KEY-HERE
+cd /tmp
+git clone https://aur.archlinux.org/spotify.git
+cd spotify
+makepkg -si
+cd
+
 # yay
 cd /tmp
 git clone https://aur.archlinux.org/yay.git
@@ -39,16 +48,9 @@ cd stremio
 makepkg -si
 cd
 
-# spotify
-cd /tmp
-git clone https://aur.archlinux.org/spotify.git
-cd spotify
-makepkg -si
-cd
-
 # visual studio code
 cd /tmp
 git clone https://aur.archlinux.org/visual-studio-code-bin.git
-cd yay
+cd visual-studio-code-bin
 makepkg -si
 cd
